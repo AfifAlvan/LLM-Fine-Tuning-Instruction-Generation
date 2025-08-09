@@ -1,0 +1,25 @@
+[
+  {
+    "instruction": "How do I update my profile picture in the zz app?",
+    "output": [
+      "Open the app",
+      "Log in to your account",
+      "Go to 'Profile' section",
+      "Tap on your current profile picture",
+      "Select 'Upload New Photo'",
+      "Choose an image from your gallery",
+      "Tap 'Save Changes'"
+    ]
+  },
+  {
+    "instruction": "How to enable dark mode on the mm platform?",
+    "output": [
+      "Open the mm platform app",
+      "Log in to your account",
+      "Go to 'Settings'",
+      "Find and tap 'Display Preferences'",
+      "Toggle the 'Dark Mode' switch to ON",
+      "Exit settings to apply the changes"
+    ]
+  }
+]

@@ -24,5 +24,5 @@ def generate_steps(instruction):
     return tokenizer.decode(outputs[0], skip_special_tokens=True)
 
 if __name__ == "__main__":
-    test_instruction = " How  do  I  reset  my  password  in  the  e-commerce  “xx”  mobile app ?"
+    test_instruction = "How do I reset my profil picture?"
     print(generate_steps(test_instruction))
